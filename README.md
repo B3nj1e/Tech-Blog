@@ -74,15 +74,15 @@ To quickly test the application, follow the installation instructions, then open
 
 Example of login page, viewed via localhost:3001/login.
 
-![exmaple of login](./assets/images/picture2.png)
+![exmaple of login](./assets/images/Picture2.png)
 
 Example of dashboard, viewed via localhost:3001/dashboard.
 
-![example dashboard](./assets/images/picture3.png)
+![example dashboard](./assets/images/Picture3.png)
 
 Example of homepage with posts, viewed via localhost:3001/.
 
-![example homepage](./assets/images/picture1.png)
+![example homepage](./assets/images/Picture1.png)
 
 
 ## Questions
