@@ -1,4 +1,4 @@
-## Employee Tracker - MySQL
+## Tech Blog - Full Stack
 ![license badge](https://img.shields.io/static/v1?label=License&message=MIT-Licencse&color=success)
 
 ## Table of Contents
@@ -16,7 +16,7 @@ My GitHub username is B3nj1e.
 Please click [here](https://github.com/B3nj1e) to access my GitHub profile and the associated repository [here](https://github.com/B3nj1e/Employee-Tracker).
 
 ## Description
-An employee manager system to create a store data relating to company departments, employment roles and employee data. This information is store on a database using MySQL and SQL. 
+An tech blog application, that has a front end user interface, that communicates with the backend SQL database with MySQL and sequelize via server HTTP requests. 
 
 User story:
 ```md
